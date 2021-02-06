@@ -88,7 +88,7 @@ const init = async () => {
         const fileContent = generateMd(answers);
 
         // write markdown content to README.md file
-        await writeToFile("./output/README.md", fileContent);
+        await writeToFile("./demo-results/README.md", fileContent);
 
         // notify user that file has been written
         console.log("README.md created in output folder.");
