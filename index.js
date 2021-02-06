@@ -91,7 +91,7 @@ const init = async () => {
         await writeToFile("./demo-results/README.md", fileContent);
 
         // notify user that file has been written
-        console.log("README.md created in output folder.");
+        console.log("README.md created in demo-results folder.");
 
     } catch (err) {
         console.error("Error creating README. File not created.");
