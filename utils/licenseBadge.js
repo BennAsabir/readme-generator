@@ -1,4 +1,4 @@
-// markdown links to license badge images
+// MD LINKS TO LICENSE BADGE IMAGES
 const licenseBadgeLinks = {
     "MIT": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
     "Unlicense": "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)",
