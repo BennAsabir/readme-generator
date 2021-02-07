@@ -13,13 +13,13 @@ This is a command-line application that dynamically generates a professional REA
 When the application runs, it presents a series of prompts to the user to fill in the different sections of a README. Then the README markdown file with the user information is saved inside the demo-reults folder.
 
 Image showcasing the application running in the Terminal
-<img src=./assets/images/screenshot5.png>
+<img src=./assets/images/screenshot.png>
 
-Image of result after answering a series of prompts from the application. ReadMe file is in the Demo-Results folder.
+Image of result after answering a series of prompts from the application. ReadMe file that was demonstrated in the video is in the Demo-Results folder.
 <img src=./assets/images/screenshot2.png>
 
 Demonstration Video
-<img src=./assets/images/screenshot2.png>
+<img src=./assets/gif/demo.gif>
 
 ## Technologies
 Project is created with 
