@@ -1,10 +1,6 @@
 # Readme-Generator
 This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
 
-# Readme-Generator
-This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
-
-
 ## Table Of Content
 * [General Info](#general-info)
 * [Technologies](#technologies)
@@ -17,7 +13,7 @@ This is a command-line application that dynamically generates a professional REA
 When the application runs, it presents a series of prompts to the user to fill in the different sections of a README. Then the README markdown file with the user information is saved inside the demo-reults folder.
 
 Image showcasing the application running in the Terminal
-<img src=./assets/images/screenshot2.png>
+<img src=./assets/images/screenshot5.png>
 
 Image of result after answering a series of prompts from the application. ReadMe file is in the Demo-Results folder.
 <img src=./assets/images/screenshot2.png>
@@ -54,8 +50,8 @@ node index.js
 ```
 
 ## Usage
+Application is used for generating a professional ReadMe.
 After installation of the dependencies, the application can be invoked with the following command - 'node index.js'.
-For generating a professional ReadMe.
 
 ## License
 This repository is licensed under the MIT license.
